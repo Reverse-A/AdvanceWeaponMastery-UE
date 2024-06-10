@@ -20,6 +20,7 @@ Customizable Weapons: Create new weapons effortlessly by selecting attributes su
 Centralized Data Storage: All weapon details are stored in DataAssets, ensuring efficient data management and easy access. This centralized approach simplifies data handling and enhances performance.
 Data Duplication: DataAssets can be duplicated to quickly create similar weapons, saving time and effort in the development process.
 
+<a href="https://ibb.co/5KHNBdK"><img src="https://i.ibb.co/fDwh4bD/Advance-Weapon-Mastery-Example-4.png" alt="Advance-Weapon-Mastery-Example-4" border="0" /></a>
 
 ## User Interface Integration
 Visual Data Display: Includes an example UI to visually display weapon data, making it easier for developers to review and manage weapon attributes.
