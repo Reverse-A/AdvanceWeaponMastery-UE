@@ -31,6 +31,7 @@ Data Duplication: DataAssets can be duplicated to quickly create similar weapons
 Visual Data Display: Includes an example UI to visually display weapon data, making it easier for developers to review and manage weapon attributes.
 Ease of Access: Developers can effortlessly access weapon data to implement functions such as damage systems and other gameplay mechanics.
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pystvC0/UI-1.png" alt="UI-1" border="0" /></a>
 
 ## Advanced Rarity and Effect System
 Dynamic Rarity Effects: Implement and manage different rarity levels for weapons with dynamic effects that enhance gameplay and player experience.
@@ -45,8 +46,6 @@ New Methods and Functions: Additional methods and functions will be provided to 
 <a href="https://ibb.co/C6sb0nt"><img src="https://i.ibb.co/vhv3zJB/Educational-Explanation-1.png" alt="Educational-Explanation-1" border="0" /></a>
 
 <a href="https://ibb.co/n7PvzMC"><img src="https://i.ibb.co/tqLt8pX/Educational-Explanation-2.png" alt="Educational-Explanation-2" border="0" /></a>
-
-
 
 ## Multiplayer Support
 Upcoming Multiplayer Integration: We are actively developing and will soon add multiplayer support, allowing your weapon mastery systems to function seamlessly in multiplayer environments.
