@@ -31,6 +31,17 @@ Ease of Access: Developers can effortlessly access weapon data to implement func
 Dynamic Rarity Effects: Implement and manage different rarity levels for weapons with dynamic effects that enhance gameplay and player experience.
 Real-time Updates: Automatically update weapon attributes and effects based on mastery level changes in real-time, ensuring that players experience seamless and engaging gameplay.
 
+## Education-Oriented Design
+Learning C++ Syntax and Programming Concepts
+In-Depth Comments and Documentation: Every function, method, declaration, and definition in the plug-in's files is extensively commented and documented, providing a detailed explanation of each line of code. This makes the plug-in an excellent resource for learning C++ syntax and programming concepts.
+Step-by-Step Tutorials: Accompanying the plug-in is a series of step-by-step tutorials that cover various C++ syntaxes and programming concepts. Each comments includes practical examples and exercises to reinforce learning.
+New Methods and Functions: Additional methods and functions will be provided to demonstrate how to acquire new methods, functions, and other features from Unreal Engine classes. These will be extensively commented and documented, guiding and teaching users line by line.
+
+<a href="https://ibb.co/C6sb0nt"><img src="https://i.ibb.co/vhv3zJB/Educational-Explanation-1.png" alt="Educational-Explanation-1" border="0" /></a>
+
+<a href="https://ibb.co/n7PvzMC"><img src="https://i.ibb.co/tqLt8pX/Educational-Explanation-2.png" alt="Educational-Explanation-2" border="0" /></a>
+
+
 
 ## Multiplayer Support
 Upcoming Multiplayer Integration: We are actively developing and will soon add multiplayer support, allowing your weapon mastery systems to function seamlessly in multiplayer environments.
