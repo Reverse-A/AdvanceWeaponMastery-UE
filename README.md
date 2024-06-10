@@ -57,11 +57,7 @@ Lazy Loading: Efficiently load and manage assets to optimize performance and res
 
 
 ## Installation
-Clone or download the repository.
-Copy the AdvanceWeaponMastery folder into your Unreal Engine project's Plugins directory.
-Open your project in Unreal Engine.
-Enable the plug-in in the Plugins settings menu.
-Restart Unreal Engine to apply the changes.
+TODO: Installation introduction
 
 
 ## Usage
