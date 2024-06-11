@@ -83,7 +83,7 @@ If you have suggestions, bug reports, or feature requests, please open an issue 
 
 # License
 ## This project is licensed under the Advance Weapon Mastery License 
-## see the # [LICENSE](https://github.com/Reverse-A/AdvanceWeaponMastery/blob/main/License.md) file for details.
+## see the # [Read LICENSE](https://github.com/Reverse-A/AdvanceWeaponMastery/blob/main/License.md) file for details.
 
 ## Acknowledgements
 # Unreal Engine by Epic Games
