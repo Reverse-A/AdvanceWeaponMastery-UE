@@ -5,7 +5,8 @@ This Unreal Engine plug-in is designed to streamline and enhance your game devel
 
 With a focus on flexibility and ease of use, this plug-in is perfect for developers looking to create intricate and highly detailed weapon systems for their games.
 
-<a href="https://ibb.co/TTBnS51"><img src="https://i.ibb.co/0XjWS3K/Advance-Weapon-Mastery.gif" alt="Advance-Weapon-Mastery" border="0"></a>
+[<a href="https://ibb.co/TTBnS51"><img src="https://i.ibb.co/0XjWS3K/Advance-Weapon-Mastery.gif" alt="Advance-Weapon-Mastery" border="0"></a>
+](https://jmp.sh/s/t4Qm0Dg5lXrxmbXlTRVA)
 
 <a href="https://ibb.co/LzL3f00"><img src="https://i.ibb.co/LzL3f00/Weapon-Module.png" alt="Weapon-Module" border="0" /></a>
 
