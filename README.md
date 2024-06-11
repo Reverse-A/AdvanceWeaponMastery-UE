@@ -10,10 +10,14 @@ With a focus on flexibility and ease of use, this plug-in is perfect for develop
 <a href="https://ibb.co/wMPdnnx"><img src="https://i.ibb.co/XSKWnnv/Advance-Weapon-Mastery-Example-1.png" alt="Advance-Weapon-Mastery-Example-1" border="0" /></a>
 
 ## Features
-Comprehensive Weapon Data Management
-Detailed Weapon Attributes: Easily manage and store a wide range of weapon data including damage, range, weapon types, fire modes, fire types, weapon names, rarity effects, level requirements, and obtaining states.
-Customizable Weapons: Create new weapons effortlessly by selecting attributes such as type, price range, damage, penetration, and more. Add a static mesh component for visual representation and instantly see the changes.
 
+Comprehensive Weapon Data Management:
+Easily manage, edit, and store a wide variety of weapon data, including detailed weapon attributes such as damage type, damage rate or range, armor penetration, range, weight, durability, price, weapon types, fire modes, fire types, weapon names, rarity effects or levels, level requirements, and acquisition conditions.
+
+Customizable Weapons:
+Effortlessly create new weapons by selecting attributes such as type, price range, damage, penetration, and more.
+
+Add a static network component for visual representation and instantly see changes.
 <a href="https://ibb.co/Wyk8kvf"><img src="https://i.ibb.co/T84j4Mt/Advance-Weapon-Mastery-Example-2.png" alt="Advance-Weapon-Mastery-Example-2" border="0" /></a>
 
 <a href="https://ibb.co/X8fxMhx"><img src="https://i.ibb.co/cLKhVGh/Advance-Weapon-Mastery-Example-3.png" alt="Advance-Weapon-Mastery-Example-3" border="0" /></a>
