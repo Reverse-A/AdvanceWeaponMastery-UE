@@ -16,11 +16,13 @@ Easily manage, edit, and store a wide variety of weapon data, including detailed
 
 Customizable Weapons:
 Effortlessly create new weapons by selecting attributes such as type, price range, damage, penetration, and more.
+<a href="https://ibb.co/Wyk8kvf"><img src="https://i.ibb.co/T84j4Mt/Advance-Weapon-Mastery-Example-2.png" alt="Advance-Weapon-Mastery-Example-2" border="0" /></a>
+<a href="https://ibb.co/X8fxMhx"><img src="https://i.ibb.co/cLKhVGh/Advance-Weapon-Mastery-Example-3.png" alt="Advance-Weapon-Mastery-Example-3" border="0" /></a>
 
 Add a static network component for visual representation and instantly see changes.
-<a href="https://ibb.co/Wyk8kvf"><img src="https://i.ibb.co/T84j4Mt/Advance-Weapon-Mastery-Example-2.png" alt="Advance-Weapon-Mastery-Example-2" border="0" /></a>
 
-<a href="https://ibb.co/X8fxMhx"><img src="https://i.ibb.co/cLKhVGh/Advance-Weapon-Mastery-Example-3.png" alt="Advance-Weapon-Mastery-Example-3" border="0" /></a>
+
+
 
 ## DataAssets for Efficient Data Handling
 Centralized Data Storage: All weapon details are stored in DataAssets, ensuring efficient data management and easy access. This centralized approach simplifies data handling and enhances performance.
