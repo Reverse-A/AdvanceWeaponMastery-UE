@@ -9,35 +9,42 @@ With a focus on flexibility and ease of use, this plug-in is perfect for develop
 
 <a href="https://ibb.co/wMPdnnx"><img src="https://i.ibb.co/XSKWnnv/Advance-Weapon-Mastery-Example-1.png" alt="Advance-Weapon-Mastery-Example-1" border="0" /></a>
 
-## Features
-
+# Features
 Comprehensive Weapon Data Management:
 Easily manage, edit, and store a wide variety of weapon data, including detailed weapon attributes such as damage type, damage rate or range, armor penetration, range, weight, durability, price, weapon types, fire modes, fire types, weapon names, rarity effects or levels, level requirements, and acquisition conditions.
-
-Customizable Weapons:
-Effortlessly create new weapons by selecting attributes such as type, price range, damage, penetration, and more.
 <a href="https://ibb.co/Wyk8kvf"><img src="https://i.ibb.co/T84j4Mt/Advance-Weapon-Mastery-Example-2.png" alt="Advance-Weapon-Mastery-Example-2" border="0" /></a>
+
+# Customizable Weapons and Sound Integration:
+## Effortlessly create and customize new weapons by adding and editing attributes such as material and drop equip sounds using sound cues. Tailor the auditory experience by selecting and managing different sound effects for various actions, enhancing the overall immersion and realism within Unreal Engine.
 <a href="https://ibb.co/X8fxMhx"><img src="https://i.ibb.co/cLKhVGh/Advance-Weapon-Mastery-Example-3.png" alt="Advance-Weapon-Mastery-Example-3" border="0" /></a>
 
-Add a static network component for visual representation and instantly see changes.
+## Add a static mesh component for visual representation.
 <a href="https://ibb.co/pd12vpP"><img src="https://i.ibb.co/fHXMY7S/Static-Mesh.png" alt="Static-Mesh" border="0"></a>
 
 
 
-## DataAssets for Efficient Data Handling
-Centralized Data Storage: All weapon details are stored in DataAssets, ensuring efficient data management and easy access. This centralized approach simplifies data handling and enhances performance.
-Data Duplication: DataAssets can be duplicated to quickly create similar weapons, saving time and effort in the development process.
-
+# DataAssets for Efficient Data Handling
+## Centralized Data Storage:
+### All weapon details are stored in DataAssets, ensuring efficient data management and easy access. This centralized approach simplifies data handling and enhances performance. 
 <a href="https://ibb.co/ypQXwQ3"><img src="https://i.ibb.co/f9x2hxc/Advance-Weapon-Mastery-Example-Folder-2.png" alt="Advance-Weapon-Mastery-Example-Folder-2" border="0" /></a>
+
+## Data Duplication: 
+### DataAssets can be duplicated to quickly create similar weapons, saving time and effort in the development process.
 
 <a href="https://ibb.co/9NySrHX"><img src="https://i.ibb.co/f2rLxdR/Advance-Weapon-Mastery-Example-Folder-3.png" alt="Advance-Weapon-Mastery-Example-Folder-3" border="0" /></a>
 
 <a href="https://ibb.co/5KHNBdK"><img src="https://i.ibb.co/fDwh4bD/Advance-Weapon-Mastery-Example-4.png" alt="Advance-Weapon-Mastery-Example-4" border="0" /></a>
 
 
-## User Interface Integration
-Visual Data Display: Includes an example UI to visually display weapon data, making it easier for developers to review and manage weapon attributes.
-Ease of Access: Developers can effortlessly access weapon data to implement functions such as damage systems and other gameplay mechanics.
+# User Interface Integration
+## Visual Data Display: 
+### Includes an example UI to visually display weapon data, making it easier for developers to review and manage weapon attributes.
+## Ease of Access: 
+### Developers can effortlessly access and stream weapon data to implement functions such as damage systems and other gameplay mechanics.
+
+<a href="https://ibb.co/BNgK5R4"><img src="https://i.ibb.co/9tq3kjw/UI-1.png" alt="UI-1" border="0"></a>
+
+<a href="https://ibb.co/H7vh99P"><img src="https://i.ibb.co/zsc6tt2/UI-2.png" alt="UI-2" border="0"></a>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/pystvC0/UI-1.png" alt="UI-1" border="0" /></a>
 
