@@ -20,7 +20,7 @@ Effortlessly create new weapons by selecting attributes such as type, price rang
 <a href="https://ibb.co/X8fxMhx"><img src="https://i.ibb.co/cLKhVGh/Advance-Weapon-Mastery-Example-3.png" alt="Advance-Weapon-Mastery-Example-3" border="0" /></a>
 
 Add a static network component for visual representation and instantly see changes.
-
+<a href="https://ibb.co/pd12vpP"><img src="https://i.ibb.co/fHXMY7S/Static-Mesh.png" alt="Static-Mesh" border="0"></a>
 
 
 
