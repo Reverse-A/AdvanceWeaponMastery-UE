@@ -1,6 +1,8 @@
 # Advance Weapon Mastery
 
-Welcome to the Advance Weapon Mastery GitHub repository! This Unreal Engine plug-in is designed to streamline and enhance your game development process by providing an advanced system for managing and customizing weapon data. 
+Welcome to the Advance Weapon Mastery GitHub repository!
+This Unreal Engine plug-in is designed to streamline and enhance your game development process by providing an advanced system for managing and customizing weapon data. 
+
 With a focus on flexibility and ease of use, this plug-in is perfect for developers looking to create intricate and highly detailed weapon systems for their games.
 
 <a href="https://ibb.co/LzL3f00"><img src="https://i.ibb.co/LzL3f00/Weapon-Module.png" alt="Weapon-Module" border="0" /></a>
