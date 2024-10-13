@@ -9,11 +9,11 @@ With a focus on flexibility and ease of use, this plug-in is perfect for develop
 
 # Features
 Comprehensive Weapon Data Management:
-Easily manage, edit, and store a wide variety of weapon data, including detailed weapon attributes such as damage type, damage rate or range, armor penetration, range, weight, durability, price, weapon types, fire modes, fire types, weapon names, rarity effects or levels, level requirements, and acquisition conditions.
+Easily manage, edit, and store a wide variety of weapon data, including detailed weapon type, weapon attributes such as damage type, damage, fire rate, attackspeed, armor penetration, elemental effects, weight, durability, price, name descriptions, fire modes, fire types, rarity effects or levelling system, and acquisition conditions.
 <a href="https://ibb.co/Wyk8kvf"><img src="https://i.ibb.co/T84j4Mt/Advance-Weapon-Mastery-Example-2.png" alt="Advance-Weapon-Mastery-Example-2" border="0" /></a>
 
-# Customizable Weapons and Sound Integration:
-## Effortlessly create and customize new weapons by adding and editing attributes such as material and drop equip sounds using sound cues. 
+# Customizable Weapons, sound and visual Integration:
+## Effortlessly create, customize and store new weapons by adding and editing attributes such as material and weapon sounds and visual effects. 
 ## Tailor the auditory experience by selecting and managing different sound effects for various actions, enhancing the overall immersion and realism within Unreal Engine.
 <a href="https://ibb.co/X8fxMhx"><img src="https://i.ibb.co/cLKhVGh/Advance-Weapon-Mastery-Example-3.png" alt="Advance-Weapon-Mastery-Example-3" border="0" /></a>
 
@@ -26,9 +26,6 @@ Easily manage, edit, and store a wide variety of weapon data, including detailed
 ## Centralized Data Storage:
 ### All weapon details are stored in DataAssets, ensuring efficient data management and easy access. This centralized approach simplifies data handling and enhances performance. 
 <a href="https://ibb.co/ypQXwQ3"><img src="https://i.ibb.co/f9x2hxc/Advance-Weapon-Mastery-Example-Folder-2.png" alt="Advance-Weapon-Mastery-Example-Folder-2" border="0" /></a>
-
-## Data Duplication: 
-### DataAssets can be duplicated to quickly create similar weapons, saving time and effort in the development process.
 
 <a href="https://ibb.co/9NySrHX"><img src="https://i.ibb.co/f2rLxdR/Advance-Weapon-Mastery-Example-Folder-3.png" alt="Advance-Weapon-Mastery-Example-Folder-3" border="0" /></a>
 
